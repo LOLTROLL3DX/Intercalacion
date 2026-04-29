@@ -65,7 +65,7 @@ Esto lo hace **lineal en la práctica** cuando k es pequeño y constante.
 ## Estructura
 
 ```
-radix-sort-benchmark/
+radix_sort
 ├── README.md
 ├── radix_sort.py
 └── datos.txt
